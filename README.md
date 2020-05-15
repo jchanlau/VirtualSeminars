@@ -21,5 +21,5 @@ https://virtual-econ.info/seminars.html
 - Promarket
 https://promarket.org/
 
-= BCF Princeton
+- BCF Princeton
 https://bcf.princeton.edu/event-directory/covid19/
